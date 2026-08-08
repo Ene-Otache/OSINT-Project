@@ -41,7 +41,7 @@ The investigation was broken into three phases:
 - Personnel identified include an IT management role with likely elevated platform access.
 - No breach exposure found for the generic address tested.
 
-Full methodology, screenshots, and risk analysis are in the [full report](./OSINTReport.pdf).
+Full methodology, screenshots, and risk analysis are in the [full report](./OSINTreport.pdf).
 
 ## Disclaimer
 
